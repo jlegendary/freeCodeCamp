@@ -3,7 +3,7 @@ function end(str, target) {
   var targetLength = target.length;
   var differenceLength = stringLength-targetLength;
   
-  if(str.substr(difLength) == target){
+  if(str.substr(differenceLength) == target){
     return true;
   } else {
     return false;
