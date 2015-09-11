@@ -3,7 +3,7 @@
 
 |#|  Name | Solutions list |
 |----|---------------|----------------|
-| 001 | Meet Bonfire | [JavaScript](001-meetBonfire.js) |
+| 001 | Meet Bonfire | [JavaScript](001-Meet Bonfire/meetBonfire.js) |
   
 
 
